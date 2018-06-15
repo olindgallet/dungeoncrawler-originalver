@@ -3,11 +3,11 @@ Original version of dungeon-crawler engine as used in the 2018 parade. Putting i
 
 If you want to try it out, download the whole thing.
   
-*Look at gruntfile.js and download all necessary files for it.  You'll need to recompile things to make a js folder that holds the compiled file.*
+- Look at gruntfile.js and download all necessary files for it.  You'll need to recompile things to make a js folder that holds the compiled file.
 
-*You'll need to add in videos if you want that option.  Look in the data/maps folder. The JSON files contain data about what gets shown.  Also use the Tiled program to modify the map.*
+- You'll need to add in videos if you want that option.  Look in the data/maps folder. The JSON files contain data about what gets shown.  Also use the Tiled program to modify the map.
 
-*You'll likely need to add fonts of your own.  It won't crash the engine, but it'll give you an error message.*
+- You'll likely need to add fonts of your own.  It won't crash the engine, but it'll give you an error message.
 
 Send any questions/comments my way, I'm open to helping you if you want to get this running.
   
