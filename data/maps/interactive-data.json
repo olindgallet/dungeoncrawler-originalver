@@ -1,0 +1,459 @@
+{	
+	"npcs":[
+ 
+        {
+         "text":["My name is Seymore D Icks. Welcome to the World's Unfair!", "HOW ARE YOU TODAY?"],
+         "name": "Seymore D Icks",
+		 "img": "data/img/dungeon_npcs/seymoredfair.png",
+		 "id": "seymore"
+        },
+		
+		{
+		 "text":["My name is Pepe La Gator.  This is Artist Alley!"],
+		 "name":"Pepe La Gator",
+		 "img": "data/img/dungeon_npcs/pepelagator.png",
+		 "id":"pepelagator"
+		},
+		
+		{
+		  "text":["This seems like a great place to open up gourmet iced coffee."],
+		  "name":"Hip Cat",
+		  "img": "data/img/dungeon_npcs/hipcat.png",
+		  "id":"hipcat"
+		}
+		
+        ],
+		
+	"videos":[
+		{
+			"title": "City Gates",
+			"author": "John Doe",
+			"id": "CP_CITY_GATES",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Petroleum Pavilion",
+			"author": "Jim Doe",
+			"id": "CP_PETROLEUM_PAVILION",
+			"video": "data/videos/THREE_RIVER_BOATS.mp4"
+		},
+		
+		{
+			"title": "Anti-Carousel",
+			"author": "John Doe",
+			"id": "CP_ANTI_CAROUSEL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "EB Gondola",
+			"author": "John Doe",
+			"id": "CP_EB_GONDOLA",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "America's Electrical",
+			"author": "John Doe",
+			"id": "CP_AMERICAS_ELECTRICAL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Frey Centennial",
+			"author": "John Doe",
+			"id": "CP_FREY_CENTENNIAL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+			
+		{
+			"title": "Water Sculpture 1",
+			"author": "John Doe",
+			"id": "CP_WATER_SCULPTURE_1",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Vatican Pavilion",
+			"author": "John Doe",
+			"id": "FSM_VATICAN_PAVILION",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Executive Order",
+			"author": "John Doe",
+			"id": "FSM_EXECUTIVE_ORDER",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Pete Fontaine",
+			"author": "John Doe",
+			"id": "FSM_PETE_FONTAINE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Port Mall",
+			"author": "John Doe",
+			"id": "FSM_PORT_MALL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Seafood Warehouse",
+			"author": "John Doe",
+			"id": "FSM_SEAFOOD_WAREHOUSE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Hurricane Saloon",
+			"author": "John Doe",
+			"id": "FSM_HURRICANE_SALOON",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "New Orleans",
+			"author": "John Doe",
+			"id": "FSM_NEW_ORLEANS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "China",
+			"author": "John Doe",
+			"id": "IR_CHINA",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Ligget-Myers",
+			"author": "John Doe",
+			"id": "IR_LIGGET_MYERS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "VIRRivers",
+			"author": "John Doe",
+			"id": "IR_VIR_RIVERS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Japan",
+			"author": "John Doe",
+			"id": "IR_JAPAN",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Peru",
+			"author": "John Doe",
+			"id": "IR_PERU",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Liberia",
+			"author": "John Doe",
+			"id": "IR_LIBERIA",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Philippines",
+			"author": "John Doe",
+			"id": "IR_PHILIPPINES",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Egypt",
+			"author": "John Doe",
+			"id": "IR_EGYPT",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Italy",
+			"author": "John Doe",
+			"id": "IR_ITALY",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "EEC",
+			"author": "John Doe",
+			"id": "IR_EEC",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Open Space",
+			"author": "John Doe",
+			"id": "IR_OPEN_SPACE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Caribbean Village",
+			"author": "John Doe",
+			"id": "IR_CARIBBEAN_VILLAGE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Mexico",
+			"author": "John Doe",
+			"id": "IR_MEXICO",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Korean House",
+			"author": "John Doe",
+			"id": "IR_KOREAN_HOUSE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "NASA",
+			"author": "John Doe",
+			"id": "IR_NASA",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "UN Pavilion",
+			"author": "John Doe",
+			"id": "IR_UN_PAVILION",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Riverfront Sky",
+			"author": "John Doe",
+			"id": "IR_RIVERFRONT_SKY",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Army Corps",
+			"author": "John Doe",
+			"id": "IR_ARMY_CORPS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "USA",
+			"author": "John Doe",
+			"id": "IR_USA",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "3 Riverboats",
+			"author": "John Doe",
+			"id": "IR_3_RIVERBOATS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Chrysler",
+			"author": "John Doe",
+			"id": "IR_CHRYSLER",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Union Pacific",
+			"author": "John Doe",
+			"id": "BP_UNION_PACIFIC",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Aquacade",
+			"author": "John Doe",
+			"id": "BP_AQUACADE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Bride Entrance",
+			"author": "John Doe",
+			"id": "BP_BRIDE_ENTRANCE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Skyfab",
+			"author": "John Doe",
+			"id": "BP_SKYFAB",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Rainbow",
+			"author": "John Doe",
+			"id": "BP_RAINBOW",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Conergy",
+			"author": "John Doe",
+			"id": "BP_CONERGY",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Ferris Wheel",
+			"author": "John Doe",
+			"id": "BP_FERRIS_WHEEL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Jazz Tent",
+			"author": "John Doe",
+			"id": "FP_JAZZ_TENT",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		
+		{
+			"title": "Showcase",
+			"author": "John Doe",
+			"id": "FP_SHOWCASE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		
+		{
+			"title": "Wonderwall",
+			"author": "John Doe",
+			"id": "FP_WONDERWALL",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		
+		{
+			"title": "Water Sculpture",
+			"author": "John Doe",
+			"id": "FP_WATER_SCULPTURE_2",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Louisiana Exhibit",
+			"author": "John Doe",
+			"id": "GH_LOUISIANA_EXHIBIT",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Coronet Stage",
+			"author": "John Doe",
+			"id": "GH_CORONET_STAGE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Three Bureaus",
+			"author": "John Doe",
+			"id": "GH_THREE_BUREAUS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "WDSU",
+			"author": "John Doe",
+			"id": "GH_WDSU",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Oschner",
+			"author": "John Doe",
+			"id": "GH_OSCHNER",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Magic Room",
+			"author": "John Doe",
+			"id": "GH_MAGIC_ROOM",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "The 7th Day Adventist",
+			"author": "John Doe",
+			"id": "GH_THE_7TH_DAY_ADVENTIST",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "I've Known Rivers",
+			"author": "John Doe",
+			"id": "GH_IVE_KNOWN_RIVERS",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Thirst",
+			"author": "John Doe",
+			"id": "GH_THIRST",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Mississippi Pavilion",
+			"author": "John Doe",
+			"id": "GH_MISSISSIPPI_PAVILION",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Artworks '84",
+			"author": "John Doe",
+			"id": "GH_ARTWORKS_84",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Great River",
+			"author": "John Doe",
+			"id": "GH_GREAT_RIVER",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "Church of Christ",
+			"author": "John Doe",
+			"id": "GH_CHURCH_OF_CHRIST",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+		{
+			"title": "National Park",
+			"author": "John Doe",
+			"id": "GH_NATIONAL_PARK",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		},
+		
+				{
+			"title": "Water Sculpture",
+			"author": "John Doe",
+			"id": "GH_WATER_SCULPTURE",
+			"video": "data/videos/GREAT_RIVER_ROAD.mp4"
+		}
+		
+		]
+}
